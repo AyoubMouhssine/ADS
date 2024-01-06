@@ -6,12 +6,10 @@ Welcome to my ADS repository! Here, you'll find a curated collection of essentia
 
 1. [Introduction](#introduction)
 2. [Algorithms](#algorithms)
-    - [Linear Search](#linear-search)
-    - [Binary Search](#binary-search)
-    - [Two Crystal Balls](#two-crystal-balls)
+   - [Linear Search](#linear-search)
+   - [Binary Search](#binary-search)
+   - [Two Crystal Balls](#two-crystal-balls)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
